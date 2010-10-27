@@ -1,0 +1,7 @@
+ro.product.model=HTC Magic
+ro.product.brand=google
+ro.product.name=opal
+ro.product.device=magic
+ro.product.board=magic
+# ro.build.product is obsolete; use ro.product.device
+ro.build.product=magic
